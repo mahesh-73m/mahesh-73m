@@ -1,5 +1,5 @@
-## 👋 Hi there, <p align="center">
-##  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=35&weight=700&duration=6000&color=0A66C2&center=true&width=600&lines=Mahesh+Mahapatra" alt="Typing Name Animation" /></p>
+## 👋 Hi there, <span align="center">
+##  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=35&weight=700&duration=6000&color=0A66C2&center=true&width=600&lines=Mahesh+Mahapatra" alt="Typing Name Animation" /></span>
 
 
 💻 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
