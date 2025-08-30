@@ -1,4 +1,6 @@
-## 👋 Hi there, I’m Mahesh Mahapatra 
+## 👋 Hi there, <p align="center">
+##  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=35&weight=700&duration=6000&color=0A66C2&center=true&width=600&lines=Mahesh+Mahapatra" alt="Typing Name Animation" /></p>
+
 
 💻 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
 🌱 Always learning and building impactful projects with modern technologies.  
